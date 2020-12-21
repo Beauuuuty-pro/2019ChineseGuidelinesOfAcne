@@ -1,2 +1,2 @@
-# 2019ChineseGuidelinesOfAcne
-2019 version Chinese Guidelines of treatment of acne
+# [2019 中国痤疮治疗指南](http://www.cnki.com.cn/Article/CJFDTotal-LCPF201909023.htm) 
+## 参考文献

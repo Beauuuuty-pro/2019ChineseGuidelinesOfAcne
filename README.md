@@ -1,6 +1,8 @@
 # [2019 中国痤疮治疗指南](http://www.cnki.com.cn/Article/CJFDTotal-LCPF201909023.htm) 
 ## 参考文献
-[1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)  
+[1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)    
+
+**摘要：**寻常痤疮是青少年时期一种常见的皮肤病。痤疮的发生率在不同的民族和国家之间有差异。本文在中国6个城市进行了一项大规模的社区调查，以确定中国人群中痤疮的患病率和会导致患痤疮的因素。在调查的17345名居民中，1399人患有痤疮。10岁以下的调查者均没有发现痤疮；10岁组群中，只有1.6%的调查者患痤疮。10岁时期后，随着年龄的增长，患病率迅速上升。19组群的患病率甚至高达46.8%。此后，随着年龄的增长，痤疮患病率逐渐下降。50岁以后，痤疮发生率就很少见了。在青少年晚期、20至30岁年龄段中，男性患痤疮的几率更高。在30岁以上的年龄段，则女性患痤疮的几率更高。在痤疮患者中，68.4%为轻度痤疮，26.0%为中度痤疮，5.6%为重度痤疮。在成人痤疮中，持续性痤疮（83.3%）比迟发性痤疮（16.7%）更常见。调查发现，吸烟和饮酒与青少年痤疮具有相关性，而饮食习惯和痤疮发生之间无相关性（吸烟者患痤疮概率40.6%，215/529；戒烟者患痤疮概率37.5%，6/16；不吸烟者患痤疮概率29.4%，818/2786。重度饮酒者患痤疮概率41.2%，28/68；轻度中度饮酒者41.4%，236/570；不饮酒者患痤疮概率28.8%，775/2693。）。结果表明，中国人群中痤疮的患病率低于高加索人群，而成人痤疮在中国人群中并不少见。  
 
 [3.New developments in our understanding of acne pathogenesis and treatment](https://pubmed.ncbi.nlm.nih.gov/19555434/) 
 

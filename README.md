@@ -1,6 +1,6 @@
 # [2019 中国痤疮治疗指南](http://www.cnki.com.cn/Article/CJFDTotal-LCPF201909023.htm) 
 ## 参考文献
-[1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)
+[1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)  
 [3.New developments in our understanding of acne pathogenesis and treatment](https://pubmed.ncbi.nlm.nih.gov/19555434/)
 [4.Genotype-phenotype correlations in severe acne in a Han chinese population](https://pubmed.ncbi.nlm.nih.gov/25278381/)
 [5.Sex hormones and Acne](https://pubmed.ncbi.nlm.nih.gov/28274349/)

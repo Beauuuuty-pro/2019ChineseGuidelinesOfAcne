@@ -46,4 +46,4 @@
 
 [22.Is maintenance treatment in adult acne important? Benefits from maintenance therapy with adapalene, and low doses of alpha and beta hydroxy acids](https://www.tandfonline.com/doi/abs/10.1080/09546634.2018.1484874) 
 
-[23.From new findings in acne pathogenesis to new approaches in treatment](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13186)
+[23.From new findings in acne pathogenesis to new approaches in treatment](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13186)  

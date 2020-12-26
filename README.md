@@ -41,7 +41,8 @@
 **摘要：**异维甲酸在痤疮中有多种作用机制，包括皮脂细胞的凋亡、抑制toll样受体2的抑制、与发病有关的激素的抑制等。随着痤疮严重程度的增加，需要更高的累积剂量的异维甲酸才能达到清除的目的。异维甲酸从120至150 mg/kg的累积剂量仍缺乏中等或高级证据支持。痤疮和抑郁症和自杀风险相关；而异维甲酸可能会增加抑郁风险。应重新考虑关于使用异维甲酸6个月内避免痤疮疤痕修的建议。
 
 
-### [15.Is hormonal treatment still an option in acne today?](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)  
+### [15.Is hormonal treatment still an option in acne today?](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)    
+**摘要：**寻常痤疮是一种多因素导致的皮肤病，毛皮脂腺单位对雄激素的敏感性增高是其重要的致病因素之一。痤疮通常单独出现，但也可能与高雄激素血症和其他内分泌异常疾病有关。激素治疗适用于患丘疹性脓疱性、结节性和丛生性痤疮的高雄激素血症女性，以及每月发作、标准治疗方案无效或不适用的成年女性。本文综述了激素治疗的最新进展，包括联合口服避孕药、抗雄激素药物如醋酸环丙孕酮、螺内酯和氟他胺、小剂量糖皮质激素和促性腺激素释放激素激动剂；也分享了作者基于研究和个人经验提出的治疗建议。  
 
 ### [16.Photodynamic therapy for the treatment of different severity of acne: a systematic review](https://www.sciencedirect.com/science/article/abs/pii/S1572100016300333) 
 **摘要：** 简介：痤疮是一种毛皮脂腺单位的疾病。痤疮是一种常见的疾病，80%至95%的成年人(无论男女)都受痤疮影响。目前的治疗方案是传统的局部和/或口服药物，但这些药物会导致不良反应、部分反应、禁忌症，甚至复发。因此需要提出新的痤疮皮损治疗方法。  

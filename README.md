@@ -26,7 +26,7 @@
 ### [9.Pratical management of acne for clinicians: an international consensus from the global alliance to improve outcomes in acne](https://www.sciencedirect.com/science/article/abs/pii/S0190962217326038) 
 
 ### [10.Retinoids in acne management: review of current understanding, future considerations, and focus on topical treatments](https://jhu.pure.elsevier.com/en/publications/retinoids-in-acne-management-review-of-current-understanding-futu)  
-
+**摘要：** 寻常痤疮是最常见的皮肤病，对青少年、青年人的心理有巨大的影响。它的致病标志包括滤泡角化不良、皮脂分泌增加、毛囊内角质杆菌（原丙酸杆菌）引起的炎症。维甲酸是痤疮治疗的主流，它能解决痤疮的关键致病途径。维甲酸通过其核受体的结合发挥作用，从而产生下游生物效应。对维甲酸药理学的理解增加了维甲酸的种类，可以使用天然和合成的维甲酸。维甲酸可以用于各种局部疗法或系统性的组合疗法来治疗痤疮。适当使用这类药物能有效治疗痤疮。此外，有证据显示其能改善和预防痤疮后的萎缩性痤疮疤痕。根据局部维甲酸、三法罗汀的有效性，可以预见痤疮治疗设备将进一步丰富，能更好地处理痤疮及其后遗症。
 ### [11.Multicenter cross-sectional observational study of antibiotic resistance and the genotypes of Propionibacterium acnes isolated from Chinese patients with acne vulgaris](https://onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.13149) 
 **摘要:** 抗生素在寻常痤疮的治疗中被广泛应用，这引出了抗生素耐药性的问题。由于抗生素的使用和监管不当，抗生素耐药性在中国已成为一个严重的问题。因此，在没有客观地监测痤疮丙酸杆菌耐药性的情况下，抗生素治疗痤疮的疗效尚不清楚。本研究旨在了解P.痤疮患者对抗生素的耐药状况，探讨我国痤疮防治措施，分析痤疮耐药菌株的基因型。回顾相关医学文献后，从华中地区5个医疗中心的患者中收集到312株P.痤疮杆菌。用琼脂稀释法进行药敏试验，共检测11类抗生素。通过对23srrna、16srrna和erm（X）基因型的研究，筛选并进一步分析了耐药菌株。耐药性以大环内酯类和林可霉素为主，总耐药率为47.8%。四环素类抗生素的耐药率很低，仅发现2例。四环素类药物最低抑菌浓度升高的出现与其应用历史有关（P<0.005）。中国受试者也发现了大环内酯-林可酰胺-链球菌-托格拉明B耐药菌株的基因型，但也可能存在其他耐药决定因素。四环素类药物已被证明是非常敏感的，但大环内酯类药物和林可霉素在中国面临着严重的耐药状况。  
 
@@ -42,7 +42,7 @@
 
 
 ### [15.Is hormonal treatment still an option in acne today?](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)    
-**摘要：**寻常痤疮是一种多因素导致的皮肤病，毛皮脂腺单位对雄激素的敏感性增高是其重要的致病因素之一。痤疮通常单独出现，但也可能与高雄激素血症和其他内分泌异常疾病有关。激素治疗适用于患丘疹性脓疱性、结节性和丛生性痤疮的高雄激素血症女性，以及每月发作、标准治疗方案无效或不适用的成年女性。本文综述了激素治疗的最新进展，包括联合口服避孕药、抗雄激素药物如醋酸环丙孕酮、螺内酯和氟他胺、小剂量糖皮质激素和促性腺激素释放激素激动剂；也分享了作者基于研究和个人经验提出的治疗建议。  
+**摘要：** 寻常痤疮是一种多因素导致的皮肤病，毛皮脂腺单位对雄激素的敏感性增高是其重要的致病因素之一。痤疮通常单独出现，但也可能与高雄激素血症和其他内分泌异常疾病有关。激素治疗适用于患丘疹性脓疱性、结节性和丛生性痤疮的高雄激素血症女性，以及每月发作、标准治疗方案无效或不适用的成年女性。本文综述了激素治疗的最新进展，包括联合口服避孕药、抗雄激素药物如醋酸环丙孕酮、螺内酯和氟他胺、小剂量糖皮质激素和促性腺激素释放激素激动剂；也分享了作者基于研究和个人经验提出的治疗建议。  
 
 ### [16.Photodynamic therapy for the treatment of different severity of acne: a systematic review](https://www.sciencedirect.com/science/article/abs/pii/S1572100016300333) 
 **摘要：** 简介：痤疮是一种毛皮脂腺单位的疾病。痤疮是一种常见的疾病，80%至95%的成年人(无论男女)都受痤疮影响。目前的治疗方案是传统的局部和/或口服药物，但这些药物会导致不良反应、部分反应、禁忌症，甚至复发。因此需要提出新的痤疮皮损治疗方法。  

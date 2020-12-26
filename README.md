@@ -1,57 +1,57 @@
 # [2019 中国痤疮治疗指南](http://www.cnki.com.cn/Article/CJFDTotal-LCPF201909023.htm) 
 ## 参考文献
-### [1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)    
+### [1.Prevalence of acne vulgaris in chinese adolescents and adults: a community-based study of 17,345 subjects in six cities. 中国青少年和成人痤疮患病率：一项对6个城市17345名受试者的社区研究](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1164)    
 
 **摘要：** 寻常痤疮是青少年时期一种常见的皮肤病。痤疮的发生率在不同的民族和国家之间有差异。本文在中国6个城市进行了一项大规模的社区调查，以确定中国人群中痤疮的患病率和会导致患痤疮的因素。在调查的17345名居民中，1399人患有痤疮。10岁以下的调查者均没有发现痤疮；10岁组群中，只有1.6%的调查者患痤疮。10岁时期后，随着年龄的增长，患病率迅速上升。19组群的患病率甚至高达46.8%。此后，随着年龄的增长，痤疮患病率逐渐下降。50岁以后，痤疮发生率就很少见了。在青少年晚期、20至30岁年龄段中，男性患痤疮的几率更高。在30岁以上的年龄段，则女性患痤疮的几率更高。在痤疮患者中，68.4%为轻度痤疮，26.0%为中度痤疮，5.6%为重度痤疮。在成人痤疮中，持续性痤疮（83.3%）比迟发性痤疮（16.7%）更常见。调查发现，吸烟和饮酒与青少年痤疮具有相关性，而饮食习惯和痤疮发生之间无相关性（吸烟者患痤疮概率40.6%，215/529；戒烟者患痤疮概率37.5%，6/16；不吸烟者患痤疮概率29.4%，818/2786。重度饮酒者患痤疮概率41.2%，28/68；轻度中度饮酒者41.4%，236/570；不饮酒者患痤疮概率28.8%，775/2693。）。结果表明，中国人群中痤疮的患病率低于高加索人群，而成人痤疮在中国人群中并不少见。  
 
-### [3.New developments in our understanding of acne pathogenesis and treatment](https://pubmed.ncbi.nlm.nih.gov/19555434/) 
+### [3.New developments in our understanding of acne pathogenesis and treatment. 痤疮发病机制及治疗认识的新进展](https://pubmed.ncbi.nlm.nih.gov/19555434/) 
 
 **摘要：** 人们对皮脂腺生理学及其疾病的兴趣迅速增加。本文总结了最近三年(2005-2008)更新的痤疮病理学知识和治疗概念。本文尽量回答了关于皮脂腺生物学、激素因子、角化过度、细菌作用、皮脂、营养、细胞因子和桥样受体（TLRs）的问题。皮脂腺在皮肤天然免疫中起着重要作用。它们产生神经肽、分泌抗菌肽、显示干细胞的特性。雄激素以复杂的方式影响皮脂细胞和漏斗角质形成细胞，进而影响细胞分化、增殖、脂肪生成和黑头形成。角质形成细胞终末分化障碍可以引起闭合性粉刺和炎性丘疹中的残留角化过度。痤疮丙酸杆菌通过作用于TLR-2，可以刺激细胞素的分泌，从而引起炎症。某些痤疮可能通过刺激皮脂细胞和角质形成细胞抗菌肽的产生而引起免疫反应，在卵泡的先天免疫中起着重要作用。皮脂质的质变引起角质形成细胞分化的改变、诱导IL-1的分泌，从而导致滤泡过度角化。高血糖负荷食物和牛奶可能会导致组织中5 \alpha - 二氢睾酮水平升高。这些新的痤疮发病机制知识带来了关于定制治疗的思考。目前的研究有望在不久的将来带来创新的治疗方法。  
 
-### [4.Genotype-phenotype correlations in severe acne in a Han chinese population](https://pubmed.ncbi.nlm.nih.gov/25278381/)  
+### [4.Genotype-phenotype correlations in severe acne in a Han chinese population. 中国汉族人群重度痤疮基因型-表型相关性研究](https://pubmed.ncbi.nlm.nih.gov/25278381/)  
 
 **摘要：** 背景：对中国汉族人群的全基因组关联研究发现了两个与严重痤疮有关的新的易感基因位点（1q24.2和11p11.2）。目的：探讨这些基因位点与临床表型的关系，包括发病年龄、萎缩性瘢痕、肥厚性瘢痕和家族史。此外，我们还研究了这四种临床表型之间的相关性。方法：采用 $χ^2$ 检验比较不同临床表型的等位基因频率。我们计算Spearman相关系数来衡量不同临床表型之间的关系。结果：11p11.2位点与家族史有显著相关性（$p<0.05$）。肥厚性瘢痕与萎缩性瘢痕中度相关（$r_s=0.315$）。结论：11p11.2易感基因位点可能与严重痤疮的复杂表型有关，尤其是遗传性严重痤疮，但不同表型之间也存在相关性。  
 
-### [5.Sex hormones and Acne](https://pubmed.ncbi.nlm.nih.gov/28274349/)  
+### [5.Sex hormones and Acne. 性激素与痤疮](https://pubmed.ncbi.nlm.nih.gov/28274349/)  
 **摘要：** 皮肤是一种内分泌器官，具有多种激素的代谢酶和激素受体的表达。皮脂腺是激素尤其是雄激素合成的主要场所，而痤疮是典型的雄激素介导的皮肤病。在皮脂细胞中，17-羟孕酮可以绕过睾酮直接转化为二氢睾酮，而II型17 \beta -羟化类固醇脱氢酶可以使睾酮和二氢睾酮的作用失活。双氢睾酮对皮脂细胞的雄激素受体依赖性基因组效应已得到证实。证据支持了PI3K/Akt/FoxO1/mTOR信号通路参与雄激素、胰岛素、胰岛素样生长因子和高血糖饮食之间的相互作用。雄激素不仅可以调节皮脂细胞的胚胎学和脂肪生成/皮脂合成，还可以影响痤疮的炎症反应。基因研究表明雄激素受体的调节是严重痤疮的一个重要因素。考虑到妊娠期痤疮和绝经后痤疮的变化，需要进一步研究雌激素和孕酮对皮脂腺和粉刺发生的影响。另外，应注意非肥胖多囊卵巢综合征和高雄激素血症胰岛素抵抗黑棘皮综合征患者。尽管在使用联合口服避孕药治疗痤疮方面有丰富的妇科经验，但仍需要基于皮肤学观察的更有力的证据。  
 
-### [6.New insights into the management of acne: An update from the Global Alliance to Improve Outcomes in Acne Group](https://www.sciencedirect.com/science/article/abs/pii/S0190962209000826)  
+### [6.New insights into the management of acne: An update from the Global Alliance to Improve Outcomes in Acne Group. 痤疮管理的新见解：改善痤疮全球联盟的更新](https://www.sciencedirect.com/science/article/abs/pii/S0190962209000826)  
 **摘要：** 痤疮疗效改善国际联盟在2003年美国皮肤病学学会杂志上发表了一份关于改善痤疮建议的补充材料。这些建议包含了有证据支撑的策略和研究组的集体临床经验。此更新提出了有关痤疮病理生理学和痤疮治疗的新信息，如激光和光疗法，和一些基于2003年后新数据相关的话题，包括联合治疗、痤疮疤痕修正和维持治疗。本次更新内容还包括将痤疮视为慢性疾病的新方法、关于担心微生物耐药性而改变抗生素在痤疮治疗中的作用的讨论，以及影响坚持痤疮治疗的因素。更新的内容指出了研究证据是否有力，并作出相应的总结和建议。在最初的补充中，作者尽可能地基于公开的证据提出了建议。
 
-### [7.Guidelines of care for the management of acne vulgaris](https://pubmed.ncbi.nlm.nih.gov/26897386/)  
+### [7.Guidelines of care for the management of acne vulgaris. 寻常痤疮治疗护理指南](https://pubmed.ncbi.nlm.nih.gov/26897386/)  
 **摘要：** 痤疮是皮肤科医生和保健提供者最常面对的疾病之一。痤疮最常发生在青少年时期，但不少成年人也患有痤疮，而且儿童也有可能患痤疮。这一循证指南解决了在管理中会遇到的重要临床问题。本文回顾了从痤疮分级到局部和系统的疾病管理的内容。并根据现有证据提出使用建议。  
 
-### [8.European evidence-based (S3) guideline for the treatment of acne – update 2016 – short version](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13776)  
+### [8.European evidence-based (S3) guideline for the treatment of acne – update 2016 – short version. 欧洲循证（S3）痤疮治疗指南-2016年更新-简短版本](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13776)  
 
-### [9.Pratical management of acne for clinicians: an international consensus from the global alliance to improve outcomes in acne](https://www.sciencedirect.com/science/article/abs/pii/S0190962217326038) 
+### [9.Pratical management of acne for clinicians: an international consensus from the global alliance to improve outcomes in acne. 临床医生痤疮的实际治疗：来自全球痤疮治疗联盟的国际共识](https://www.sciencedirect.com/science/article/abs/pii/S0190962217326038) 
 
-### [10.Retinoids in acne management: review of current understanding, future considerations, and focus on topical treatments](https://jhu.pure.elsevier.com/en/publications/retinoids-in-acne-management-review-of-current-understanding-futu)  
+### [10.Retinoids in acne management: review of current understanding, future considerations, and focus on topical treatments. 维甲酸类药物在痤疮治疗中的应用：回顾目前的认识，未来的考虑，以及对局部治疗的关注](https://jhu.pure.elsevier.com/en/publications/retinoids-in-acne-management-review-of-current-understanding-futu)  
 **摘要：** 寻常痤疮是最常见的皮肤病，对青少年、青年人的心理有巨大的影响。它的致病标志包括滤泡角化不良、皮脂分泌增加、毛囊内角质杆菌（原丙酸杆菌）引起的炎症。维甲酸是痤疮治疗的主流，它能解决痤疮的关键致病途径。维甲酸通过其核受体的结合发挥作用，从而产生下游生物效应。对维甲酸药理学的理解增加了维甲酸的种类，可以使用天然和合成的维甲酸。维甲酸可以用于各种局部疗法或系统性的组合疗法来治疗痤疮。适当使用这类药物能有效治疗痤疮。此外，有证据显示其能改善和预防痤疮后的萎缩性痤疮疤痕。根据局部维甲酸、三法罗汀的有效性，可以预见痤疮治疗设备将进一步丰富，能更好地处理痤疮及其后遗症。
-### [11.Multicenter cross-sectional observational study of antibiotic resistance and the genotypes of Propionibacterium acnes isolated from Chinese patients with acne vulgaris](https://onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.13149) 
+### [11.Multicenter cross-sectional observational study of antibiotic resistance and the genotypes of Propionibacterium acnes isolated from Chinese patients with acne vulgaris. 寻常痤疮患者痤疮丙酸杆菌基因型及耐药性的多中心横断面观察研究](https://onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.13149) 
 **摘要:** 抗生素在寻常痤疮的治疗中被广泛应用，这引出了抗生素耐药性的问题。由于抗生素的使用和监管不当，抗生素耐药性在中国已成为一个严重的问题。因此，在没有客观地监测痤疮丙酸杆菌耐药性的情况下，抗生素治疗痤疮的疗效尚不清楚。本研究旨在了解P.痤疮患者对抗生素的耐药状况，探讨我国痤疮防治措施，分析痤疮耐药菌株的基因型。回顾相关医学文献后，从华中地区5个医疗中心的患者中收集到312株P.痤疮杆菌。用琼脂稀释法进行药敏试验，共检测11类抗生素。通过对23srrna、16srrna和erm（X）基因型的研究，筛选并进一步分析了耐药菌株。耐药性以大环内酯类和林可霉素为主，总耐药率为47.8%。四环素类抗生素的耐药率很低，仅发现2例。四环素类药物最低抑菌浓度升高的出现与其应用历史有关（P<0.005）。中国受试者也发现了大环内酯-林可酰胺-链球菌-托格拉明B耐药菌株的基因型，但也可能存在其他耐药决定因素。四环素类药物已被证明是非常敏感的，但大环内酯类药物和林可霉素在中国面临着严重的耐药状况。  
 
-### [12.Antibiotic stewardship in dermatology: limiting antibiotic use in acne](https://link.springer.com/article/10.1684/ejd.2014.2309)  
+### [12.Antibiotic stewardship in dermatology: limiting antibiotic use in acne. 皮肤科抗生素管理：限制痤疮抗生素的使用](https://link.springer.com/article/10.1684/ejd.2014.2309)  
 **摘要：**  背景/目的：抗生素在医学各领域的广泛应用已导致抗生素耐药性的严重问题，并已开始损害抗生素的效用。抗痘药一直是痤疮治疗的重点。痤疮患者人数众多，抗生素治疗往往持续时间较长，因此，痤疮治疗导致大量的抗生素暴露。本文讨论了如何在为痤疮患者提供有效和安全的治疗的同时，最大程度地保留这些重要药物的效用。    
 方法：在文献稀少的情况下，增补了专家意见。  
 结果：鉴于临床上有更好的治疗方案，不推荐抗生素单药治疗（无论是局部或口服）。系统性使用抗生素对中度到重度痤疮有效，但应限制使用时间（3-4个月）。局部抗生素应与过氧化苯甲酰搭配使用，以限制耐药性。近年来有关痤疮病理生理学的信息关注了痤疮丙酸杆菌的作用以及炎症等其他关键的致病途径。  
 结论：既然我们对痤疮致病机制有了进一步的了解。因此，我们应该结合目前公共卫生的关注点，开发有效的现代治疗方法。   
 
 
-### [13.Oral isotretinoin: new developments relevant to clinical practice](http://europepmc.org/article/MED/27015777)  
+### [13.Oral isotretinoin: new developments relevant to clinical practice. 口服异维甲酸的临床应用新进展](http://europepmc.org/article/MED/27015777)  
 **摘要：** 异维甲酸在痤疮中有多种作用机制，包括皮脂细胞的凋亡、抑制toll样受体2的抑制、与发病有关的激素的抑制等。随着痤疮严重程度的增加，需要更高的累积剂量的异维甲酸才能达到清除的目的。异维甲酸从120至150 mg/kg的累积剂量仍缺乏中等或高级证据支持。痤疮和抑郁症和自杀风险相关；而异维甲酸可能会增加抑郁风险。应重新考虑关于使用异维甲酸6个月内避免痤疮疤痕修的建议。
 
 
-### [15.Is hormonal treatment still an option in acne today?](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)    
+### [15.Is hormonal treatment still an option in acne today? 激素治疗仍然是痤疮的一个选择吗？](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)    
 **摘要：** 寻常痤疮是一种多因素导致的皮肤病，毛皮脂腺单位对雄激素的敏感性增高是其重要的致病因素之一。痤疮通常单独出现，但也可能与高雄激素血症和其他内分泌异常疾病有关。激素治疗适用于患丘疹性脓疱性、结节性和丛生性痤疮的高雄激素血症女性，以及每月发作、标准治疗方案无效或不适用的成年女性。本文综述了激素治疗的最新进展，包括联合口服避孕药、抗雄激素药物如醋酸环丙孕酮、螺内酯和氟他胺、小剂量糖皮质激素和促性腺激素释放激素激动剂；也分享了作者基于研究和个人经验提出的治疗建议。  
 
-### [16.Photodynamic therapy for the treatment of different severity of acne: a systematic review](https://www.sciencedirect.com/science/article/abs/pii/S1572100016300333) 
-**摘要：** 简介：痤疮是一种毛皮脂腺单位的疾病。痤疮是一种常见的疾病，80%至95%的成年人(无论男女)都受痤疮影响。目前的治疗方案是传统的局部和/或口服药物，但这些药物会导致不良反应、部分反应、禁忌症，甚至复发。因此需要提出新的痤疮皮损治疗方法。  
+### [16.Photodynamic therapy for the treatment of different severity of acne: a systematic review. 光动力疗法治疗不同程度痤疮的系统评价](https://www.sciencedirect.com/science/article/abs/pii/S1572100016300333) 
+**摘要：** 简介：痤疮是一种毛皮脂腺单位的疾病。痤疮是一种常见的疾病，80%至95%的成年人(无论男女)都受痤疮影响。目前的治疗方案是传统的局部和/或口服药物，但这些药物会导致不良反应、部分反应、禁忌症，甚至复发。因此需要提出新的痤疮皮损治疗方法。 
 目的：本综述旨在为PDT治疗痤疮皮损的安全性和有效性提供循证依据。
 方法：在国家医学图书馆的PubMed数据库中输入“痤疮和PDT”搜索词，总共有143个消息来源。这篇综述文章涵盖了其中36篇关于PDT在痤疮中应用的搜索结果。  
 结果：这36个临床试验中，24个试验观察了PDT治疗痤疮的疗效；12个试验比较了PDT与单纯光或激光治疗痤疮的疗效。在24个仅使用PDT的临床试验中，3个是有对照的临床试验，14个是无对照的临床试验，6个是随机对照试验（RCT），1个是回顾性研究。这些试验结果表明，PDT是治疗痤疮安全有效的方法。研究表明，PDT可以控制炎症性和非炎症性痤疮皮损，并能改善从轻度到重度皮损。  
 结论：光动力疗法（PDT）已被广泛研究并发现是痤疮皮损的有效治疗方法。但仍需要更多的随机对照试验来建立关于光敏剂浓度和潜伏期以及光源最佳参数的标准指南。需要进一步的研究来指导未来的研究，并帮助皮肤科医生选择PDT作为治疗痤疮皮损的有效方法。
 
-### [17.Chemical peels for acne vulgaris: a systematic review of randomised controlled trials](https://bmjopen.bmj.com/content/8/4/e019607)  
+### [17.Chemical peels for acne vulgaris: a systematic review of randomised controlled trials. 化学去皮治疗寻常痤疮：随机对照试验的系统评价](https://bmjopen.bmj.com/content/8/4/e019607)  
 **摘要：** 目的：通过随机对照实验探讨化学剥脱法治疗寻常痤疮的有效性。
 方法：本文采用标准Cochrane程序。通过OvidSP搜索了MEDLINE、Cochrane Central Register of Controlled Trails和EMBASE中2017年4月的结果。评审员独立评估资格、偏倚风险和提取的数据。
 结果：共纳入12个随机对照试验（387名受试者）。疗效无显著差异：三氯乙酸与水杨酸（总改善百分比：风险比为0.89；95%可信区间0.73至1.10），
@@ -59,34 +59,34 @@
 局限性：包括的随机对照试验的方法学质量介于低至中等。由于跨研究的临床差异，不能进行Meta分析。
 结论：常用的化学去皮似乎对轻中度寻常痤疮有效，并且有良好的耐受性。然而，根据目前有限的证据，我们不能断定目前使用的化学剥脱的疗效是否一样或哪个更加优越。需要设计良好的随机对照试验来确定最佳方案。
 
-### [18.Acne scarring management: systematic review and evaluation of the evidence](https://pubmed.ncbi.nlm.nih.gov/29744784/)  
+### [18.Acne scarring management: systematic review and evaluation of the evidence. 痤疮疤痕处理：系统回顾和证据评估](https://pubmed.ncbi.nlm.nih.gov/29744784/)  
 **摘要：** 背景：萎缩性痤疮疤痕的治疗方法可根据其能满足的需要进行分类：重新表面处理、提升/扩容、收紧或手术移除需要矫正的组织。许多的治疗方法来源于不同的痤疮疤痕类型、各种皮肤类型的不同反应，以及微创技术的普及。尽管如此，各种临床方案的治疗或联合治疗仍缺乏一致的指导方针。  
 目的：本系统性的综述评价了这些治疗模式和多模式治疗相关证据。  
 方法：在Medline和EMBASE数据库中系统性地检索研究痤疮疤痕治疗的文献。此外，我们还查阅了这些文献的参考文献列表，并对进一步的研究文章进行了回顾。共有89项研究纳入我们的证据质量评估。  
 结果：激光和射频治疗萎缩性痤疮疤痕的疗效经大量对比观察证实。其他方式也可以作为辅助手段，其选择取决于萎缩性瘢痕的类型、严重程度和数量。微创手术，如分数射频和针刺，提供了良好的结果与风险可以忽略不计的患者深色或敏感的皮肤类型。结论缺乏高质量的数据。分数激光和射频治疗可显著改善大多数类型的萎缩性痤疮疤痕，风险极小，可与所有其他治疗方案相结合。联合治疗通常比单独治疗效果更好。
 
-### [19.Evidence-based recommendations for the diagnosis and treatment of pediatric acne](https://pediatrics.aappublications.org/content/131/Supplement_3/S163)
+### [19.Evidence-based recommendations for the diagnosis and treatment of pediatric acne. 儿童痤疮诊断和治疗的循证建议](https://pediatrics.aappublications.org/content/131/Supplement_3/S163)
 **摘要：** 简介：寻常痤疮是儿童和青少年最常见的皮肤病之一。痤疮的表现、鉴别诊断和与全身病理的关系因年龄而异。目前缺乏受认可的儿科痤疮的诊断和治疗指南，普通和专科护理的管理也存在差异。美国痤疮和酒渣鼻协会召集了一个由儿科皮肤科医生、儿科医生和具有痤疮专业知识的皮肤科医生组成的小组，为儿科痤疮的管理和循证治疗算法制定建议。
 方法：对小儿痤疮的诊断和治疗中的10个主要课题进行分析。我们进行了彻底的文献检索，对文章进行了鉴定、审查和评估，以进行证据分级。每个主题领域分配给2名专家评审员，由他们对总结和建议进行评论和编辑。此外，推荐分类法的强度，包括对一系列证据的推荐强度的评级，被用于评估和治疗儿童痤疮的一致建议。还开发了实用的循证治疗程序。
 结果：根据年龄和青春期状况，对儿童痤疮的分类、诊断、评估和治疗提出了建议。治疗考虑包括使用非处方药、局部过氧化苯甲酰、局部维甲酸、局部抗生素、口服抗生素、激素治疗和异维甲酸。关于青少年时期、前青少年时期、婴儿和新生儿痤疮，提供了简化的治疗算法和建议的详细细节。还讨论了包括痤疮的心理社会影响、坚持治疗方案、以及饮食对痤疮作用等其他因素。
 结论：这些由美国痤疮和酒渣鼻协会的专家建议经美国儿科学会审查和认可，构成了第一个详细的、以证据为基础的儿科痤疮管理的临床指南，并包括了治疗儿童患者时需要关注的问题。
 
-### [20.Treatment of Acne Vulgaris During Pregnancy and Lactation](https://link.springer.com/article/10.1007%2Fs40265-013-0060-0)  
+### [20.Treatment of Acne Vulgaris During Pregnancy and Lactation. 妊娠期及哺乳期寻常痤疮的治疗](https://link.springer.com/article/10.1007%2Fs40265-013-0060-0)  
 **摘要：** 寻常痤疮是孕妇和哺乳期妇女常见的问题。不幸的是，在临床实践中，由于缺乏安全性数据和对各种抗痤疮疗法的统一建议，治疗往往没有得到优化。这篇叙述性综述总结了关于它们安全性的最新数据。我们建议使用外用药物作为治疗妊娠期和哺乳期妇女寻常痤疮的一线药物，包括抗生素（红霉素、克林霉素、甲硝唑和氨苯砜）、过氧化苯甲酰、壬二酸和水杨酸。口服药物和/或光疗法可被视为二线治疗。前者包括口服大环内酯类（红霉素和阿奇霉素）、头孢氨苄或锌化合物。蓝光-紫外线或红光光疗可作为单一疗法使用，也可作为局部和/或口服疗法的补充。应避免激素治疗、四环素类抗生素、复方三恶唑和氟喹诺酮类抗生素以及口服和外用维甲酸。
 
-### [21.Maintenance therapy for acne vulgaris: efficacy of a 12-Month treatment with adapalene-Benzoyl peroxide after oral isotretinoin and a review of the literature](https://core.ac.uk/display/54704740)  
+### [21.Maintenance therapy for acne vulgaris: efficacy of a 12-Month treatment with adapalene-Benzoyl peroxide after oral isotretinoin and a review of the literature. 寻常痤疮的维持治疗：口服异维甲酸后12个月的疗效及文献回顾](https://core.ac.uk/display/54704740)  
 **摘要：** 背景：痤疮的正确治疗应包括局部维甲酸的维持治疗，以防止复发。
 目的：在口服异维甲酸治疗后，观察0.1%阿达帕林联合2.5%过氧化苯甲酰固定凝胶进行12个月维持治疗对防止复发的作用。
 方法：本研究分为两个阶段，即主动治疗阶段和维持阶段。在主动治疗阶段中，连续70例中重度痤疮患者接受口服异维甲酸治疗，直到痤疮缓解。然后进入维持治疗，接受阿达帕林-过氧化苯甲酰固定联合治疗，每日1次，持续12个月。疗效参数体现在维持治疗期间的复发率。
 结果：完成研究的68例患者中，复发2例（2.94%）。
 结论：与已发表的数据相比较，表明局部维甲酸和过氧化苯甲酰的作为维持治疗的效果更好。
 
-### [22.Is maintenance treatment in adult acne important? Benefits from maintenance therapy with adapalene, and low doses of alpha and beta hydroxy acids](https://www.tandfonline.com/doi/abs/10.1080/09546634.2018.1484874) 
+### [22.Is maintenance treatment in adult acne important? Benefits from maintenance therapy with adapalene, and low doses of alpha and beta hydroxy acids. 成人痤疮的维持治疗很重要吗？阿达帕林和低剂量α和β-羟基酸维持治疗的益处](https://www.tandfonline.com/doi/abs/10.1080/09546634.2018.1484874) 
 **摘要：** 背景：成人痤疮是一种慢性疾病，病情加重不受控制。这也与患者的心理负担和医疗费用有关。
 目的：探讨维持治疗成人痤疮的疗效。成人痤疮通常有一个长期和反复的过程，所以维持治疗是治疗过程中必要的一部分。
 方法：评价维持治疗对成人痤疮的疗效。在这项研究中，100名年龄在25-39岁之间的轻度和中度成人痤疮患者被纳入研究。
 结果：维持治疗（每周3次0.1%阿达帕林和低剂量α、β-羟基酸）使痤疮皮损数目（从31.3个减少到12.25个；p<0.001）和皮脂溢严重程度（p<0.001）显著降低。
 结论：维持治疗可显著改善轻中度痤疮患者的非炎症和炎症性病变
 
-### [23.From new findings in acne pathogenesis to new approaches in treatment](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13186)  
+### [23.From new findings in acne pathogenesis to new approaches in treatment. 从痤疮发病机制的新发现到治疗的新途径](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13186)  
 **摘要：** 痤疮是一种毛囊皮脂的慢性疾病，常见于青春期。有四个因素在痤疮皮损的发展中起关键作用：皮脂分泌过多、毛囊内角质化受到干扰、痤疮丙酸杆菌定植于毛囊皮脂腺导管、以及炎症介质释放到皮肤中。因此，为了有效和迅速地减少痤疮皮损，治疗需要尽量解决这些潜在因素。目前，大约一半的患者对痤疮治疗的依从性较差。为了克服这一局限性，需要开发出患者耐受性好、易于使用、易于操作和应用的治疗方法。局部单一治疗痤疮，如维甲酸和抗菌剂本身对痤疮的致病因素的作用范围有限。改善痤疮患者预后全球联盟（Global Alliance to Improve outcome in Acne Group）建议，对于几乎所有的痤疮患者，使用局部维甲酸（retinoid）和抗菌剂联合治疗是首选的方法。这种联合疗法的主要优点是，它们单一疗法针对更多的痤疮潜在致病因素，从而更快、更彻底地清除痤疮病灶。而且两药合用比单独用药更方便，提高了对治疗方案的依从性。通过使脱皮正常化，组合中的维甲酸成分使抗菌剂进入毛皮脂腺单位，加快痤疮的清除。总之，局部应用维甲酸/抗生素固定剂量组合是治疗痤疮的一种合理方法。它们可以作为痤疮处理的基石，应用在未来的治疗中。

@@ -72,6 +72,7 @@
 结论：这些由美国痤疮和酒渣鼻协会的专家建议经美国儿科学会审查和认可，构成了第一个详细的、以证据为基础的儿科痤疮管理的临床指南，并包括了治疗儿童患者时需要关注的问题。
 
 ### [20.Treatment of Acne Vulgaris During Pregnancy and Lactation](https://link.springer.com/article/10.1007%2Fs40265-013-0060-0)  
+**摘要：** 寻常痤疮是孕妇和哺乳期妇女常见的问题。不幸的是，在临床实践中，由于缺乏安全性数据和对各种抗痤疮疗法的统一建议，治疗往往没有得到优化。这篇叙述性综述总结了关于它们安全性的最新数据。我们建议使用外用药物作为治疗妊娠期和哺乳期妇女寻常痤疮的一线药物，包括抗生素（红霉素、克林霉素、甲硝唑和氨苯砜）、过氧化苯甲酰、壬二酸和水杨酸。口服药物和/或光疗法可被视为二线治疗。前者包括口服大环内酯类（红霉素和阿奇霉素）、头孢氨苄或锌化合物。蓝光-紫外线或红光光疗可作为单一疗法使用，也可作为局部和/或口服疗法的补充。应避免激素治疗、四环素类抗生素、复方三恶唑和氟喹诺酮类抗生素以及口服和外用维甲酸。
 
 ### [21.Maintenance therapy for acne vulgaris: efficacy of a 12-Month treatment with adapalene-Benzoyl peroxide after oral isotretinoin and a review of the literature](https://core.ac.uk/display/54704740)  
 

@@ -81,7 +81,11 @@
 结果：完成研究的68例患者中，复发2例（2.94%）。
 结论：与已发表的数据相比较，表明局部维甲酸和过氧化苯甲酰的作为维持治疗的效果更好。
 
-
 ### [22.Is maintenance treatment in adult acne important? Benefits from maintenance therapy with adapalene, and low doses of alpha and beta hydroxy acids](https://www.tandfonline.com/doi/abs/10.1080/09546634.2018.1484874) 
+**摘要：** 背景：成人痤疮是一种慢性疾病，病情加重不受控制。这也与患者的心理负担和医疗费用有关。
+目的：探讨维持治疗成人痤疮的疗效。成人痤疮通常有一个长期和反复的过程，所以维持治疗是治疗过程中必要的一部分。
+方法：评价维持治疗对成人痤疮的疗效。在这项研究中，100名年龄在25-39岁之间的轻度和中度成人痤疮患者被纳入研究。
+结果：维持治疗（每周3次0.1%阿达帕林和低剂量α、β-羟基酸）使痤疮皮损数目（从31.3个减少到12.25个；p<0.001）和皮脂溢严重程度（p<0.001）显著降低。
+结论：维持治疗可显著改善轻中度痤疮患者的非炎症和炎症性病变
 
 ### [23.From new findings in acne pathogenesis to new approaches in treatment](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jdv.13186)  

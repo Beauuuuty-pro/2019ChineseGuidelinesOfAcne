@@ -38,7 +38,8 @@
 
 
 ### [13.Oral isotretinoin: new developments relevant to clinical practice](http://europepmc.org/article/MED/27015777)  
-**摘要：**
+**摘要：**异维甲酸在痤疮中有多种作用机制，包括皮脂细胞的凋亡、抑制toll样受体2的抑制、与发病有关的激素的抑制等。随着痤疮严重程度的增加，需要更高的累积剂量的异维甲酸才能达到清除的目的。异维甲酸从120至150 mg/kg的累积剂量仍缺乏中等或高级证据支持。痤疮和抑郁症和自杀风险相关；而异维甲酸可能会增加抑郁风险。应重新考虑关于使用异维甲酸6个月内避免痤疮疤痕修的建议。
+
 
 ### [15.Is hormonal treatment still an option in acne today?](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.13681)  
 
